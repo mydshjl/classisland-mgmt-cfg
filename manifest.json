@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "               前排提醒：请为你的my的生活记录的整合包缴费，年卡3元，让宝宝给我一杯奶茶前好不好owo我真的求你了！               ",
+    "OrganizationName": "前排提醒：请为你的my的生活记录的整合包缴费，年卡3元，让宝宝给我一杯奶茶前好不好owo我真的求你了！提醒：如果一年不续费，你的灵动岛服务将被禁用，届时你将无法更便捷查看我研发的课程表，这会给你带来麻烦。。警告！警告！禁止退出组织要不然我会线下真实你",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/classplans.json",
         "Version": 1
@@ -14,3 +14,4 @@
         "Version": 1
     }
 }
+
