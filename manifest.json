@@ -14,7 +14,7 @@
         "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/subjects.json",
         "Version": 2
     },
-}    "PolicySource": {
+    "PolicySource": {
         "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
     }
