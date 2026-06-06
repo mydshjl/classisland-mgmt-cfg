@@ -4,14 +4,14 @@
     "OrganizationName": "my的生活记录 for 灵动岛 Service"
 }    "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
+        "Version": 2
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 1
+        "Version": 2
     }
 }
