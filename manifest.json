@@ -2,4 +2,16 @@
     "ServerKind": 0,
     "CoreVersion": "2.0.4.0",
     "OrganizationName": "my的生活记录 for 灵动岛 Service"
+}    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/mydshjl/classisland-mgmt-cfg/master/subjects.json",
+        "Version": 1
+    }
 }
